@@ -1,0 +1,18 @@
+﻿{
+    "productAgentOutput":  "See prdPath for standup-tracker MVP requirements.",
+    "targetApp":  "standup-tracker",
+    "prdPath":  "docs/PRD/standup-tracker.md",
+    "designDocPath":  "docs/design/standup-tracker.md",
+    "inputPath":  "inputs/standup-tracker.txt",
+    "deliveryProfile":  {
+                            "streamlitRequirementsPath":  "ui/requirements.txt",
+                            "streamlitPath":  "ui/streamlit_app.py",
+                            "uiPattern":  "streamlit",
+                            "uiRequired":  true,
+                            "requiresReact":  true,
+                            "requiresStreamlit":  true
+                        },
+    "diagramPaths":  [
+                         "docs/diagrams/generated-diagrams/standup-tracker.png"
+                     ]
+}

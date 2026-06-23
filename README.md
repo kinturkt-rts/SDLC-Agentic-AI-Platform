@@ -1,4 +1,4 @@
-# SDLC Agentic AI Platform — Generated Applications
+# SDLC Agentic AI Platform - Generated Applications
 
 This repository is the **public catalog of target applications** produced by the SDLC Agentic AI Platform — an agentic pipeline that automates:
 
